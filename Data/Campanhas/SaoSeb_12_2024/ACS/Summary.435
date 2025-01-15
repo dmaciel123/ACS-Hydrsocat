@@ -1,0 +1,41 @@
+Run # 435:  Profile on 04/22/81 at 11:25:10
+
+DH4 S/N-245
+
+Firmware Version  7.09   1/09/2007
+
+Standard Power:  14720 kHz 
+
+File Format:  WET Labs Archive Files
+Output Format:  Real Time + Status         
+
+Logger:
+Unit ID: 2
+Packet Rate: 4 Hz
+
+Active Pump Ports:   None
+
+Analog Ports: 
+
+Serial Ports: Type Baud     Size  Parity Stop
+Host Port: 		0     	0	N	1
+Port 1:	        acs 115200	8	N	1
+Port 2:	      ASCII 9600  	8	N	1
+
+Delay Before Start: 2 Minutes
+Pre-Flush:  None
+Warm Up: 7 Minutes
+Flush:  None
+Sample: 5 Minutes
+
+Starting Voltage: 15.6 V
+Final Voltage: 14.9 V
+Low Voltage Cutoff :  8.0
+
+Recorded File Sizes
+Analog:        8 K
+Port 1:      818 K
+Port 2:        6 K
+
+Total Disk Space: 1000640 K
+Free Disk Space: 460896 K at End of Sample
