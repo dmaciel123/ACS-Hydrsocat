@@ -13,4 +13,8 @@ The files will be saved on the Outputs/campaign/ACS/station_name folder.
 
 The Hydroscatt processing implemented by now bin the Hydroscat data and converts from the .DAT format to a .CSV merged file. 
 
+For that, open the "O1_Hydroscat_Run.R" script. Then, change the "path" and "campanha" variables do the respective location of data and outputs. 
+
+The function "hh_process" will process all the Hydroscat data in the folder. You can change the function arguments: min_bin, max_bin and interval to control the min and max binned depths and the interval of binning. Argument "profile" controls the process of data measured in both profile or in subsurface mode. 
+
 
